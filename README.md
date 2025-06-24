@@ -23,7 +23,7 @@ Este repositório contém implementações de algoritmos com diferentes complexi
 Os resultados da execução (dados brutos de tempo) são armazenados em arquivos `.csv` dentro de `out/` e seus respectivos subdiretórios. 
 
 - Estudo realizado em junho/2025
-  - [Google Docs - Descrição](https://docs.google.com/spreadsheets/d/1HmAKi6vov4yn2fo5vT36J787xJaFD3nbQEMhIbFZSM0)
+  - [Google Docs - Descrição](https://docs.google.com/document/d/1MDQYh6mNBsZx3_Goju74-0lNaAh_vUGkH9MK_AMex-4)
   - [Google Sheets - Benchmarks](https://docs.google.com/spreadsheets/d/1HmAKi6vov4yn2fo5vT36J787xJaFD3nbQEMhIbFZSM0)
 
 ---
